@@ -1,0 +1,65 @@
+
+div {
+    border: 2px solid rebeccapurple;
+    background-color: #C4C6E7;
+
+
+
+}
+
+#unique {
+
+    text-align: center;
+    font-family: 'Cinzel', serif;
+
+}
+
+li {
+    list-style: none;
+    padding: 5px 2px 4px 3px;
+    margin: 5px 5px;
+    border: black 2px solid;
+    border-radius: 10px;
+
+}
+
+ol {
+    padding: 5px;
+
+}
+
+.side {
+    width: 15%;
+    height: 500px;
+    background-color: #90caf9;
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#ander {
+    position: absolute;
+    display: inline-block;
+    width: 836px;
+    height: 500px;
+    background-color: #e5383b;
+}
+p{
+    margin: 8px;
+    padding: 8px;
+
+}
+.summary{
+    margin: 8px;
+    padding: 8px;
+}
+footer{
+
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
